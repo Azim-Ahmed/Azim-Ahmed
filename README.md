@@ -6,7 +6,7 @@
 
 Skills:  HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL-UI / FIREBASE / NODEJS / MOGODB / EXPRESSJS /
 
-#PROJECTS
+**#PROJECTS**
 ### [Volunteer-Network](https://volunteer-network-portal.web.app/)
 
 
