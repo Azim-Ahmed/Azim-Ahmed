@@ -4,7 +4,7 @@
 
 #### Enthuisast as a learner and coder. patient about problem solving.
 
-Skills:  HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL-UI / FIREBASE / NODEJS / MOGODB / EXPRESSJS /
+Skills:  HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL-UI / FIREBASE / NODEJS / MOGODB / EXPRESSJS / MONGOOSE / 
 
 ### Here is my [Portfolio](https://azimuahamed.netlify.app)
 ### Here is my [Resume](https://drive.google.com/file/d/1WuszKFXySEJi6lGh8qqpXo9rmpPcRwRi/view?usp=sharing)
