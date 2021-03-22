@@ -12,4 +12,4 @@ Skills:  HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL-UI / FIREBASE / 
 
 [![Azim-Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Azim-Ahmed)](https://github.com/Azim-Ahmed/github-readme-stats)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadRabby&card_width=550&show_icons=true&theme=radical)](https://github.com/amjadRabby)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azim-Ahmed)](https://github.com/Azim-Ahmed/github-readme-stats)
