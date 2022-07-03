@@ -3,6 +3,7 @@
 
 
 #### Enthuisast as a learner and coder. patient about problem solving.
+##Currenty I am learning "TypeScript, Go, Nodejs.
 
 ### Skills:  HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL-UI / FIREBASE / NODEJS / MOGODB / EXPRESSJS / MONGOOSE / 
 
