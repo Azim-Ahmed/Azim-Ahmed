@@ -8,7 +8,7 @@
 ### Skills:  HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL-UI / FIREBASE / NODEJS / MOGODB / EXPRESSJS / MONGOOSE / 
 
 ### Here is my [Portfolio](https://azimuahamed.netlify.app)
-### Here is my [Resume](https://drive.google.com/file/d/1ZHnVz2BarpsaEHGm3sQXfo6wibyqc-65/view?usp=sharing)
+### Here is my [Resume](https://drive.google.com/file/d/1pBv7mx2m2dq5igLs8CQ81bpQYTku5ooc/view?usp=sharing)
 
 
 [![Azim-Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Azim-Ahmed)](https://github.com/Azim-Ahmed/github-readme-stats)
