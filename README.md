@@ -11,7 +11,7 @@
 ### Here is my [Resume](https://drive.google.com/file/d/1pBv7mx2m2dq5igLs8CQ81bpQYTku5ooc/view?usp=sharing)
 
 
-[![Azim-Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Azim-Ahmed)](https://github.com/Azim-Ahmed/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-Ahmed&layout=compact)](https://github.com/Azim-Ahmed/github-readme-stats)
+[![Azim-Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Azim-Ahmed)]       (https://github.com/Azim-Ahmed/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-Ahmed&layout=compact)](https://github.com/Azim-Ahmed/github-readme-stats)
 
 
 <h2 align="center">Visitor Count</h2>
