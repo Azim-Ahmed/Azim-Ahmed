@@ -1,4 +1,4 @@
-## Hi there 👋, my name's Azim Uddin Ahamed.
+## Hey there 👋, This is Azim Uddin Ahamed.
 #### I am Front-End || MERN Stack Web Developer
 
 
