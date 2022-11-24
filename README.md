@@ -6,11 +6,14 @@
 
 #### Here is my [Portfolio](https://azimuahamed.netlify.app)    Here is my [Resume](https://drive.google.com/file/d/1pBv7mx2m2dq5igLs8CQ81bpQYTku5ooc/view?usp=sharing)
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-Ahmed&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Azim-Ahmed&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
 
-[![Azim-Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Azim-Ahmed)](https://github.com/Azim-Ahmed/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-Ahmed&layout=compact)](https://github.com/Azim-Ahmed/github-readme-stats)
-
-
-<h2 align="center">Visitor Count</h2>
+<h2 align="center">Visitors Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/azim-ahmed/count.svg" />
+  <img align="center" alt="azimahmed.com" width="40%" src="https://profile-counter.glitch.me/azim-ahmed/count.svg" />
 </p>
