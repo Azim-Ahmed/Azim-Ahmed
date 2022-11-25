@@ -1,5 +1,5 @@
 ## <p align="center">Hey there 👋, This is Azim Uddin Ahamed.</p>
-#### I am Front-End || MERN Stack Web Developer
+#### I am Frontend focused Full Stack Web Developer  
 
 
 #### Enthuisast as a learner and coder. patient about problem solving.
