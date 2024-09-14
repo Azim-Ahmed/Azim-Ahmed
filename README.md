@@ -2,12 +2,12 @@
 
 ### 🚀 Frontend Developer | AI Enthusiast | Open Source Contributor
 
-I'm a passionate frontend developer with 4+ years of experience building web applications. I specialize in **React**, **TypeScript**, and **Node.js**. I love contributing to open source, exploring machine learning, and creating efficient, reusable code.
+I'm a passionate frontend developer with 4+ years of experience building web applications. I specialize in **React**, **TypeScript**, and **Node.js**. I love contributing to open source, exploring frontend automation tool, and creating efficient, reusable code.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: React, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frontend**: React, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript, Reactflow, @xyflow/react,
 - **Backend**: Node.js, Express, Firebase
 - **Databases**: MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
@@ -17,10 +17,10 @@ I'm a passionate frontend developer with 4+ years of experience building web app
 
 ## 📂 Projects
 
-### 🔗 [ReactFlow Example](https://github.com/Azim-Ahmed/reactflow-examples)
+### 🔗 [ReactFlow Example](https://reactflowexample.vercel.app)
 A set of examples and patterns for building node-based UIs using **ReactFlow**. It includes use cases like visual story building, task management, and layout algorithms like **ElkJS**.**d3-hierarchy**. **dagrejs**
 
-### ✨ [Handwritten Character Recognition](https://github.com/yourusername/handwritten-character-recognition)
+### ✨ [Handwritten Character Recognition](https://github.com/Azim-Ahmed/handwritten-character-recognition)
 A machine learning project that implements handwritten character recognition using **Python** and **TensorFlow**.
 
 ---
