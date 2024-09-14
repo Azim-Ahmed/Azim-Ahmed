@@ -20,8 +20,8 @@ I'm a passionate frontend developer with 4+ years of experience building web app
 ### 🔗 [ReactFlow Example](https://reactflowexample.vercel.app)
 A set of examples and patterns for building node-based UIs using **ReactFlow**. It includes use cases like visual story building, task management, and layout algorithms like **ElkJS**.**d3-hierarchy**. **dagrejs**
 
-### ✨ [Handwritten Character Recognition](https://github.com/Azim-Ahmed/handwritten-character-recognition)
-A machine learning project that implements handwritten character recognition using **Python** and **TensorFlow**.
+### ✨ [Automation tool with Reactflow / klaviyo.com ](https://check-automate.vercel.app)
+An automation tool which is used for the automation stuff which is built on **Reactflow** 
 
 ---
 
@@ -33,11 +33,10 @@ A machine learning project that implements handwritten character recognition usi
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [Azim Ahmed](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Personal Website: [azimahmed.dev](https://your-portfolio-link.com)
+- LinkedIn: [Azim Ahmed](https://www.linkedin.com/in/azimuahmed)
+- Twitter: [@yourhandle](https://x.com/AzimAhm81832848)
 
-Feel free to reach out if you want to collaborate or chat about tech!
+### Feel free to reach out if you want to collaborate or chat about tech!
 
 
 <table align="center">
