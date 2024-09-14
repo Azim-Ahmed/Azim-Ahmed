@@ -1,10 +1,44 @@
-## <p align="center">Hey there 👋, This is Azim Uddin Ahamed.</p>
-#### I am Frontend focused Full Stack Web Developer  
+# 👋 Hi, I'm Azim Ahmed!
 
+### 🚀 Frontend Developer | AI Enthusiast | Open Source Contributor
 
-#### Enthuisast as a learner and coder. patient about problem solving.
+I'm a passionate frontend developer with 4+ years of experience building web applications. I specialize in **React**, **TypeScript**, and **Node.js**. I love contributing to open source, exploring machine learning, and creating efficient, reusable code.
 
-#### Here is my [Portfolio](https://azimuahamed.netlify.app)    Here is my [Resume](https://drive.google.com/file/d/1pBv7mx2m2dq5igLs8CQ81bpQYTku5ooc/view?usp=sharing)
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Backend**: Node.js, Express, Firebase
+- **Databases**: MongoDB, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Other Tools**: Docker, ELKJS, React Query, Formik, Zod, Material UI
+
+---
+
+## 📂 Projects
+
+### 🔗 [ReactFlow Example](https://github.com/Azim-Ahmed/reactflow-examples)
+A set of examples and patterns for building node-based UIs using **ReactFlow**. It includes use cases like visual story building, task management, and layout algorithms like **ElkJS**.**d3-hierarchy**. **dagrejs**
+
+### ✨ [Handwritten Character Recognition](https://github.com/yourusername/handwritten-character-recognition)
+A machine learning project that implements handwritten character recognition using **Python** and **TensorFlow**.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: [Azim Ahmed](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Personal Website: [azimahmed.dev](https://your-portfolio-link.com)
+
+Feel free to reach out if you want to collaborate or chat about tech!
+
 
 <table align="center">
   <tr>
