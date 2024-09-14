@@ -25,16 +25,9 @@ An automation tool which is used for the automation stuff which is built on **Re
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 - LinkedIn: [Azim Ahmed](https://www.linkedin.com/in/azimuahmed)
-- Twitter: [@yourhandle](https://x.com/AzimAhm81832848)
+- Twitter: [@Azim-Uddin-Ahamed](https://x.com/AzimAhm81832848)
 
 ### Feel free to reach out if you want to collaborate or chat about tech!
 
