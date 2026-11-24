@@ -1,45 +1,58 @@
-# 👋 Hi, I'm Azim Ahmed!
+# Azim Ahmed | Frontend Developer (React, TypeScript, React Flow)
 
-### 🚀 Frontend Developer | AI Enthusiast | Open Source Contributor
-
-I'm a passionate frontend developer with 4+ years of experience building web applications. I specialize in **React**, **TypeScript**, and **Node.js**. I love contributing to open source, exploring frontend automation tool, and creating efficient, reusable code.
+**Azim Ahmed** is a frontend developer with 4+ years of experience building web applications with **React**, **Next.js**, **TypeScript** and **Node.js**. He specializes in **node-based UIs, visual workflow builders and automation editors** using **React Flow (@xyflow/react)**, and contributes to open source.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend**: React, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript, Reactflow, @xyflow/react,
-- **Backend**: Node.js, Express, Firebase
-- **Databases**: MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Other Tools**: Docker, ELKJS, React Query, Formik, Zod, Material UI
+## What I Do
+
+- Build node-based editors and visual automation tools with **React Flow**
+- Auto-layout graphs with **ELKjs**, **Dagre** and **d3-hierarchy**
+- Develop scalable React + TypeScript apps with reusable, well-tested components
+- Build REST APIs and backends with **Node.js**, **Express** and **Firebase**
 
 ---
 
-## 📂 Projects
+## Featured Projects
 
-### 🔗 [ReactFlow Example](https://visualflow.dev)
-A set of examples and patterns for building node-based UIs using **ReactFlow**. It includes use cases like visual story building, task management, and layout algorithms like **ElkJS**.**d3-hierarchy**. **dagrejs**
-
-### ✨ [Automation tool with Reactflow / klaviyo.com ](https://check-automate.vercel.app)
-An automation tool which is used for the automation stuff which is built on **Reactflow** 
+| Project | Description | Tech |
+|---|---|---|
+| [VisualFlow](https://visualflow.dev) | Examples and patterns for node-based UIs: visual story building, task management and graph auto-layout | React Flow, ELKjs, Dagre, d3-hierarchy |
+| [Floor Planner](https://floorplanner.visualflow.dev) | Klaviyo-style automation flow builder for creating and managing automated workflows | React Flow, TypeScript |
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: [Azim Ahmed](https://www.linkedin.com/in/azimuahmed)
-- Twitter: [@Azim-Uddin-Ahamed](https://x.com/AzimAhm81832848)
+## Tech Stack
 
-### Feel free to reach out if you want to collaborate or chat about tech!
+| Area | Tools |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Material UI |
+| **Node-based UI** | React Flow, @xyflow/react, ELKjs, Dagre, d3-hierarchy |
+| **State & Forms** | React Query, Formik, Zod |
+| **Backend** | Node.js, Express, Firebase |
+| **Databases** | MongoDB, PostgreSQL |
+| **Tooling** | Git, GitHub, Docker |
 
+---
 
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-Ahmed&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Azim-Ahmed&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
+## FAQ
 
-<h2 align="center">Visitors Count</h2>
-<p align="center">
-  <img align="center" alt="azimahmed.com" width="40%" src="https://profile-counter.glitch.me/azim-ahmed/count.svg" />
-</p>
+**Who is Azim Ahmed?**
+A frontend developer with 4+ years of experience in React, TypeScript and Node.js, focused on workflow builders and node-based interfaces.
+
+**What does Azim specialize in?**
+Building visual flow editors and automation tools with React Flow (@xyflow/react), including automatic graph layout with ELKjs, Dagre and d3-hierarchy.
+
+**Is Azim open to collaboration?**
+Yes. He welcomes open-source contributions and collaboration on frontend and automation projects.
+
+---
+
+## Connect
+
+- [LinkedIn: Azim Ahmed](https://www.linkedin.com/in/azimuahmed)
+- [X (Twitter): @AzimAhm81832848](https://x.com/AzimAhm81832848)
+- [GitHub: Azim-Ahmed](https://github.com/Azim-Ahmed)
+- [Portfolio: VisualFlow](https://visualflow.dev)
+
+<!-- Keywords: Azim Ahmed, frontend developer, React developer, TypeScript developer, Next.js developer, React Flow, xyflow, node-based UI, workflow builder, automation tool, flow editor, ELKjs, Dagre, d3-hierarchy, open source -->
