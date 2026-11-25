@@ -32,7 +32,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [VisualFlow](https://visualflow.dev) | Examples and patterns for node-based UIs: visual story building, task management and graph auto-layout | React Flow, ELKjs, Dagre, d3-hierarchy |
-| [Floor Planner](https://floorplanner.visualflow.dev) | Klaviyo-style automation flow builder for creating and managing automated workflows | React Flow, TypeScript |
+| [Floor Planner](https://floorplanner.visualflow.dev) | Design interactive floor plans with React Flow. Create rooms, customize furniture, draw walls, use 20 templates, and export architectural layouts. |
 
 ---
 
